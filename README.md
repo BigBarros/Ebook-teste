@@ -49,7 +49,7 @@ Midjourney：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Gencraft
 
 
 ## 📚 Materiais
