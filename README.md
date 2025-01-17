@@ -57,4 +57,8 @@ Midjourney：
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
+## 📖 Link do ebook
+
+- file:///C:/Users/User/Pictures/ebook/Apresentação1.pdf
+
 
